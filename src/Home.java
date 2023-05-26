@@ -68,7 +68,7 @@ public class Home {
 
             if (flags2 == true) {
                 while (true) {
-                    System.out.println("------餐厅管理首页------");
+                    System.out.println("------餐厅管理首页-------");
                     System.out.println("-----1：查看所有菜品-----");
                     System.out.println("-----2：分类查看菜品-----");
                     System.out.println("-----3：搜索菜品名称-----");
